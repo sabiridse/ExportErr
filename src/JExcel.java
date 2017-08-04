@@ -21,7 +21,7 @@
 /* 21:36 */       directory_res = path + "//ExpoErr//res//";
 /* 22:   */     }
 /* 23:53 */     Gui1 gui1 = new Gui1();
-/* 24:54 */     gui1.Gui2();
+/* 24:54 */     gui1.Gui2();//qqqqqqqqq
 /* 25:   */   }
 /* 26:   */ }
 
