@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf8"?>
+<configuration>
+<!--<Driver1>org.apache.derby.jdbc.EmbeddedDriver</Driver1>
+	<host1>jdbc:derby:</host1>
+	<host11>\\Dropbox\\workspace\\MyDB</host11>-->
+	<Driver>com.mysql.jdbc.Driver</Driver>
+	<host>jdbc:mysql://78.140.200.115:3306/it_monitoring</host>
+	<user>monitoring_admin</user>
+	<pass>monitoring_admin</pass>
+</configuration>
